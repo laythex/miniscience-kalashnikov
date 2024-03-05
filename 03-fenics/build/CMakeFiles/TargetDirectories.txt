@@ -1,0 +1,3 @@
+/home/laythe/miniscience-kalashnikov/03-fenics/build/CMakeFiles/demo_poisson.dir
+/home/laythe/miniscience-kalashnikov/03-fenics/build/CMakeFiles/edit_cache.dir
+/home/laythe/miniscience-kalashnikov/03-fenics/build/CMakeFiles/rebuild_cache.dir

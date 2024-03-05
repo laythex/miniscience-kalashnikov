@@ -1,0 +1,4 @@
+/home/laythe/miniscience-kalashnikov/01-meshes/build/CMakeFiles/thor.dir
+/home/laythe/miniscience-kalashnikov/01-meshes/build/CMakeFiles/perry.dir
+/home/laythe/miniscience-kalashnikov/01-meshes/build/CMakeFiles/edit_cache.dir
+/home/laythe/miniscience-kalashnikov/01-meshes/build/CMakeFiles/rebuild_cache.dir
